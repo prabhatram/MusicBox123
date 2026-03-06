@@ -33,7 +33,9 @@ public class MusicBox {
     }
 
     public char getPremiumSong() {
+         System.out.println("Is this song premium? " + isSongPremium);
         return isSongPremium;
+       
     }
 
 
