@@ -31,6 +31,8 @@ public class MusicBox {
     public String getSongArtists() {
         System.out.println("Is this song premium? " + isSongPremium);
         System.out.println("Is this song premium? " + isSongPremium);
+                 System.out.println("Is this song premium? " + isSongPremium);
+
 
 
         return songArtists;
